@@ -67,7 +67,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Google Cloud, Application Modernization
+      - name: Google Cloud, AppMod
         level: 95%
 
       - name: Stripe
