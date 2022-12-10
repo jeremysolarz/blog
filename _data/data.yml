@@ -67,21 +67,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Google Cloud, Application Modernization
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Stripe
+        level: 70%
 
-      - name: Sketch & Photoshop
+      - name: Java
+        level: 70%
+      
+      - name: Python
         level: 60%
 
+      - name: HTML5 & CSS
+        level: 60%
+      
+      - name: AWS, Azure
+        level: 25%
